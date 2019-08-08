@@ -12,6 +12,8 @@ public class Test {
 		arrTest.ins(aList);
 		System.out.println(aList.size());
 		System.out.println(aList.get(0));
+		
+		System.out.println(aList.get(0));
 	}
 
 }
